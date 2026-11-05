@@ -12,6 +12,8 @@ GEMINI.md
 # Secrets
 .env
 *.env
+team-*.conf
+*.ovpn
 
 # Python
 __pycache__/

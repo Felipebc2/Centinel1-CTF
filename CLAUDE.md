@@ -25,6 +25,7 @@ Orientação e brainstorm. Quem executa e resolve é o usuário.
 3. Análise local de arquivos baixados do reto (file, strings, binwalk, ghidra...) é permitida.
 4. Proibido: brute force no envio de flags, DoS, scan massivo, atacar plataforma ou outros times. Brute force/scan só se o reto pedir explicitamente, e quem roda é o usuário.
 5. Nunca enviar flags nem publicar writeups durante a competição.
+6. VPN (`team-71-player-a.conf`, raiz): NUNCA subir, ler o conteúdo ou commitar. Só orientar o usuário a conectar quando o reto exigir. Interface `team71-player-a` (`wg-quick up/down`), IP `10.200.71.1`, retos em `10.10.10.0/24`.
 
 ## Fluxo
 
