@@ -1,0 +1,34 @@
+# AI / agent files
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
+GEMINI.md
+.claude/
+.serena/
+.remember/
+.codex/
+.cursor/
+.mcp.json
+
+# Secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Debug / RE cruft
+core
+core.*
+.gdb_history
+*.gpr
+*.rep/
+*.lock~
+
+# OS / editor
+.DS_Store
+*.swp
+*~
