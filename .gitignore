@@ -33,3 +33,12 @@ core.*
 .DS_Store
 *.swp
 *~
+attache_key
+attache_key.pub
+team-71-player-a.conf
+
+# Challenge artifacts over GitHub's 100 MB limit (sha256 in each WRITEUP.md)
+Level8/Forensics/LongCapture/form.pcap
+Level8/Forensics/LargeDiskImage/volume.img
+Level8/Forensics/LargeSystemHive/SYSTEM
+Level8/Forensics/LargeDatabase/visits.db

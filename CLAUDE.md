@@ -12,7 +12,9 @@ Responda em português. Writeups em inglês.
 
 ## Estrutura
 
-`LevelN/<Categoria>/<NomeDoChallenge>/`. Categorias: Web, Crypto, Forensics, Pwn, Rev, BlueTeam, OSINT, Misc.
+`LevelN/<Categoria>/<NomeDoChallenge>/` com `README.md` (card) + `WRITEUP.md` (segue `WRITEUP_TEMPLATE.md`) + artefatos/solve. Categorias: Web, Crypto, Forensics, Pwn, Rev, BlueTeam, OSINT, Misc, AI. Prints em `img/`. Ao mudar status de um reto, atualizar a tabela do `README.md` raiz.
+
+Competição encerrada (5/11/2026). Artefatos >100 MB ficam no `.gitignore` (sha256 no writeup).
 
 ## Papel do Claude
 
